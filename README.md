@@ -1,2 +1,2 @@
 # ST_Code
-playground for custom smartthings code
+playground for my custom smartthings code
