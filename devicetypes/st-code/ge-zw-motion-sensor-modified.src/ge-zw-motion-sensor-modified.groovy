@@ -11,6 +11,7 @@
  *  for the specific language governing permissions and limitations under the License.
  *
  *  Generic Z-Wave Motion Sensor
+ * 	// attempted modification:  looking to permit mod of params limiting motion blindness default of 4-5 mins
  *
  *  Author: TurtleFast (via SmartThings source)
  *  Date: 2017-11-09 (original source 2013-11-25)
